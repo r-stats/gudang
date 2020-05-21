@@ -1,10 +1,10 @@
 {
-  "name": "R-Stats",
+  "name": "Rumus Statistik",
   "short_name": "R-Stats",
   "start_url": "https://www.rumusstatistik.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#007398",
+  "theme_color": "#0073aa",
   "description": "Blog mengenai rumus-rumus statistik.",
   "icons": [{
     "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-1LB-jRobyaU/XMTOCAW-9qI/AAAAAAAACUM/kjaFDkBaaBc8WAc0uluyOvS6FidcVb5JQCPcBGAYYCw/s48/R-Stats.png",
